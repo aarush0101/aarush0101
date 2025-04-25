@@ -118,7 +118,7 @@
 > Stay tuned!
 
 
-<a href="https://github.com/aarush0101/zendo>">
+<a href="https://github.com/aarush0101/zendo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarush0101&repo=zendo&theme=radical" alt="Zendo">
 </a>
 
