@@ -1,4 +1,4 @@
-<a href="https://github.com/aarush0101" target="_blank">
+<a href="https://wakatime.com/@aarush0101" target="_blank">
   <img align="left" src="https://wakatime.com/badge/user/46a78dbf-aa58-431c-8177-f4a79fee4859.svg?style=social" alt="WakaTime">
 </a>
 
@@ -39,7 +39,7 @@
   </a>
 
   <a href="https://zendo.pages.dev/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-green" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-green" alt="Aarush's Portfolio">
   </a>
 
 </p>
