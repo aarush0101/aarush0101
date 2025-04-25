@@ -51,7 +51,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarush0101&theme=radical" alt="Aarush's Github Contributions"/>
 </a>
 <a href="https://github.com/aarush0101">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarush0101&theme=radical&border=7F3FBF" alt="Aarush's GitHub streak"/>
+  <img src="https://github-readme-streak-stats1-nu.vercel.app/?user=aarush0101&theme=radical&border=7F3FBF" alt="Aarush's GitHub streak"/>
 </a>
 </p>
 
@@ -59,16 +59,16 @@
 
 ### Some Statistics
 
-<p align="center">
-<a href="https://github.com/aarush0101">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=aarush0101&theme=radical" alt="Aarush's GitHub Stats"/>
-</a>
-<a href="https://github.com/aarush0101">
-  <img height=200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarush0101&layout=compact&langs_count=8&card_width=320&theme=radical" alt="Aarush's GIthub Most Used Languages"/>
-</a>
-<a href="https://github.com/aarush0101">
-  <img height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=aarush0101&theme=react-dark&radius=10&area=true" alt="Aarush's Github Activity Graph"/>
-</a>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; margin: 0; padding: 0;">
+  <a href="https://github.com/aarush0101" style="margin: 0;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=aarush0101&theme=radical" alt="Aarush's GitHub Stats" style="margin: 0; padding: 0;"/>
+  </a>
+  <a href="https://github.com/aarush0101" style="margin: 0;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarush0101&layout=compact&langs_count=8&card_width=320&theme=radical" alt="Aarush's GitHub Most Used Languages" style="margin: 0; padding: 0;"/>
+  </a>
+  <a href="https://github.com/aarush0101" style="margin: 0;">
+    <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=aarush0101&theme=react-dark&radius=10&area=true" alt="Aarush's Github Activity Graph" style="margin: 0; padding: 0;"/>
+  </a>
 </p>
 
 <hr/>
@@ -113,7 +113,7 @@
 
 ### Popular Repositories
 
-> [!INFO]
+> [!IMPORTANT]
 > More repositories will be added here as I work on them.
 > Stay tuned!
 
