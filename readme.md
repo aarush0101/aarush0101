@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/aarush0101">
-    <img src="/public/sun.png" alt="Display Aesthetics" style="max-width:100%; height:auto;">
+    <img src="/public/moon.png" alt="Display Aesthetics" style="max-width:100%; height:auto;">
   </a>
 </p>
 
