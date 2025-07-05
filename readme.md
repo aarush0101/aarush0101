@@ -84,7 +84,8 @@
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS" />
+    <img src="https://img.shields.io/badge/CSS-1E3A8A?logo=css&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/Java-F89820?logo=eclipseadoptium&logoColor=2C2255" alt="Java" />
 </div>
 
 ### Frameworks/Tools I Use
