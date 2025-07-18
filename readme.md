@@ -51,7 +51,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarush0101&theme=radical" alt="Aarush's Github Contributions"/>
 </a>
 <a href="https://github.com/aarush0101">
-  <img src="https://github-readme-streak-stats1-nu.vercel.app/?user=aarush0101&theme=radical&border=7F3FBF" alt="Aarush's GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=aarush0101&theme=radical&border=7F3FBF" alt="Aarush's GitHub streak"/>
 </a>
 </p>
 
