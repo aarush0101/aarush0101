@@ -121,6 +121,9 @@
 > But that doesn't mean I won't be releasing OSS software anytime soon.
 > Stay tuned!
 
+<a href="https://github.com/aarush0101/Rich-Presence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarush0101&repo=Rich-Presence&theme=radical" alt="Rich-Presence">
+</a>
 
 ### Contact
 
