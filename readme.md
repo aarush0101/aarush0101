@@ -117,13 +117,9 @@
 ### Popular Repositories
 
 > [!IMPORTANT]
-> More repositories will be added here as I work on them.
+> Most of the work I do is proprietary, therefore I am not having much here.
+> But that doesn't mean I won't be releasing OSS software anytime soon.
 > Stay tuned!
-
-
-<a href="https://github.com/aarush0101/zendo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarush0101&repo=zendo&theme=radical" alt="Zendo">
-</a>
 
 
 ### Contact
