@@ -118,7 +118,7 @@
 
 > [!IMPORTANT]
 > Most of the work I do is proprietary, therefore I am not having much here.
-> But that doesn't mean I won't be releasing OSS software anytime soon.
+> But that doesn't mean I won't be releasing OSS works anytime soon.
 > Stay tuned!
 
 <a href="https://github.com/aarush0101/Rich-Presence">
