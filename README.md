@@ -126,6 +126,11 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarush0101&repo=Rich-Presence&theme=radical" alt="Rich-Presence">
 </a>
 
+<a href="https://github.com/aarush0101/Ascle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarush0101&repo=Ascle&theme=radical" alt="Ascle">
+</a>
+
+
 ### Contact
 
 <p>
