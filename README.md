@@ -4,23 +4,19 @@
 
 <p align="center">
   <a href="https://github.com/aarush0101">
-    <img src="/public/moon.png" alt="Display Aesthetics" style="max-width:100%; height:auto;">
+    <img src="/public/banner.jpg" alt="Display Aesthetics" style="max-width:100%; height:auto;">
   </a>
 </p>
 
 <h3 align="center">
-  <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://github.com/aarush0101">Aarush Master</a></b>
+  <samp>&gt; Hello, I'm
+    <b><a target="_blank" href="https://github.com/aarush0101">AARUSH MASTER</a></b>
   </samp>
 </h3>
 
 <hr/>
 
 <p align="center">
-    
-  <a href="https://github.com/aarush0101">
-    <img src="https://img.shields.io/badge/Aarush-Github-blue?logo=github" alt="Aarush's GitHub">
-  </a>
 
   <a href="https://github.com/aarush0101">
     <img src="https://img.shields.io/github/stars/aarush0101" alt="Aarush's GitHub Stars">
@@ -30,28 +26,16 @@
     <img src="https://img.shields.io/github/followers/aarush0101" alt="Aarush's GitHub Followers">
   </a>
 
-  <a href="https://discord.com/users/906543610269401148">
-    <img src="https://img.shields.io/badge/Discord-aarush_01-blue?style=flat&logo=discord" alt="Aarush's Discord ID">
-  </a>
-
-  <a href="mailto:aarush01111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Message_Me-red?logo=gmail&logoColor=yellow" alt="Aarush's Business Email ID">
-  </a>
-
-  <a href="https://zendo.pages.dev/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-green" alt="Aarush's Portfolio">
-  </a>
-
 </p>
 
 <hr/>
 
 <p align="center">
 <a href="https://github.com/aarush0101">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarush0101&theme=radical" alt="Aarush's Github Contributions"/>
+  <img src="https://github-profile-summary-cards-snowy.vercel.app/api/cards/profile-details?username=aarush0101&theme=radical" alt="Aarush's Github Contributions"/>
 </a>
 <a href="https://github.com/aarush0101">
-  <img src="https://streak-stats.demolab.com/?user=aarush0101&theme=radical&border=7F3FBF" alt="Aarush's GitHub streak"/>
+  <img src="https://github-readme-streak-stats-delta-pearl.vercel.app/?user=aarush0101&theme=radical&border=7F3FBF" alt="Aarush's GitHub streak"/>
 </a>
 </p>
 
@@ -61,13 +45,10 @@
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; margin: 0; padding: 0;">
   <a href="https://github.com/aarush0101" style="margin: 0;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=aarush0101&theme=radical" alt="Aarush's GitHub Stats" style="margin: 0; padding: 0;"/>
+    <img height="200" src="https://github-readme-stats-dusky-eight-32.vercel.app/api?username=aarush0101&theme=radical" alt="Aarush's GitHub Stats" style="margin: 0; padding: 0;"/>
   </a>
   <a href="https://github.com/aarush0101" style="margin: 0;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarush0101&layout=compact&langs_count=8&card_width=320&theme=radical" alt="Aarush's GitHub Most Used Languages" style="margin: 0; padding: 0;"/>
-  </a>
-  <a href="https://github.com/aarush0101" style="margin: 0;">
-    <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=aarush0101&theme=react-dark&radius=10&area=true" alt="Aarush's Github Activity Graph" style="margin: 0; padding: 0;"/>
+    <img height="200" src="https://github-readme-stats-dusky-eight-32.vercel.app/api/top-langs?username=aarush0101&layout=compact&langs_count=8&card_width=320&theme=radical" alt="Aarush's GitHub Most Used Languages" style="margin: 0; padding: 0;"/>
   </a>
 </p>
 
@@ -83,7 +64,7 @@
 <br>
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" />
-      <img src="https://img.shields.io/badge/Rust-F7DF1E?logo=rustt&logoColor=orange" alt="Rust" />
+      <img src="https://img.shields.io/badge/Rust-F7DF1E?logo=rust&logoColor=orange" alt="Rust" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
     <img src="https://img.shields.io/badge/CSS-1E3A8A?logo=css&logoColor=1572B6" alt="CSS" />
   <img src="https://img.shields.io/badge/Java-F89820?logo=eclipseadoptium&logoColor=2C2255" alt="Java" />
@@ -123,26 +104,15 @@
 > Stay tuned!
 
 <a href="https://github.com/aarush0101/Rich-Presence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarush0101&repo=Rich-Presence&theme=radical" alt="Rich-Presence">
+    <img src="https://github-readme-stats-dusky-eight-32.vercel.app/api/pin/?username=aarush0101&repo=Rich-Presence&theme=radical" alt="Rich-Presence">
 </a>
-
-<a href="https://github.com/aarush0101/Ascle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarush0101&repo=Ascle&theme=radical" alt="Ascle">
 </a>
 
 
 ### Contact
 
 <p>
-I mainly use Discord as my main contact option, please contact me on discord for any inquiries: 
-</p>
-
-<a href="https://discord.com/users/906543610269401148">
-<img src="https://img.shields.io/badge/Discord-aarush_01-blue?style=flat&logo=discord" alt="Aarush's Discord ID">
-</a>
-
-<p>
-Furthermore, I have provided my business email below if the contact is urgent:
+My email is provided below, feel free to reach out for any kind of collaboration or just a friendly chat!
 </p>
 
 <a href="mailto:aarush01111@gmail.com">
